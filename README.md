@@ -2,7 +2,7 @@ Bad Apple Effect "If there is a video it can be turned into bad apple"
 
 This is a Python script allows to create the bad apple effect using two videos
 
-Setup
+#Setup#
 
 Download the script and the requirements.txt
 
@@ -12,7 +12,8 @@ Install Required Libraries pip install -r requirements.txt
 
 This will install opencv-python and moviepy.
 
-Download the Videos
+#Download the Videos#
+
 Bad Apple Mask Video (HD): https://youtu.be/ThHvx5a9IYA
 
 Bad Apple Mask Video (OG): https://youtu.be/FtutLA63Cp8
