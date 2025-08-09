@@ -3,6 +3,7 @@ Bad Apple Effect "If there is a video it can be turned into bad apple"
 This is a Python script allows to create the bad apple effect using two videos
 
 Setup
+
 Download the script and the requirements.txt
 
 Install Python If you don't have Python, download and install it from the official website. Important: Make sure to check the box that says "Add Python to PATH" during installation.
